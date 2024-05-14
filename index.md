@@ -4,7 +4,7 @@
 
 计算机技术爱好者<br><br>
 
-对 Android 和 Linux 十分热爱且了解br><br>
+对 Android 和 Linux 十分热爱且了解<br><br>
 
 内核，ROM编译，移植等领域也都有所涉及<br><br>
 
